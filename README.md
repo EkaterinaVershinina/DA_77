@@ -3,9 +3,9 @@
 Here are located projects in EN & RU languages
 
 EN Projects:
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Project Name                | Description                                                     | Used libraries                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Users activity in mobile App]([https://github.com/EkaterinaVershinina/DA_77/blob/main/Project_sprint_9.ipynb](https://github.com/EkaterinaVershinina/DA_77/blob/main/Project_1_EN/Summry_project_2-3.ipynb))| Determine if font size affects user purchasing behavior and test the hypothesis  | python, pandas, numpy, scipy.stats, seaborn, matplotlib      |
+| 1.   | [Users activity in mobile App](https://github.com/EkaterinaVershinina/DA_77/blob/main/Project_1_EN/Summry_project_2-3.ipynb)| Determine if font size affects user purchasing behavior and test the hypothesis  | python, pandas, numpy, scipy.stats, seaborn, matplotlib      |
 
 RU Projects:
 
