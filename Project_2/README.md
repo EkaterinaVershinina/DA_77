@@ -1,26 +1,20 @@
-# Анализ текстов
+# Проект по А/B-тестированию
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[ipynb](https://github.com/EkaterinaVershinina/DA_77/blob/main/Project_2/8ecbdfef-a6c5-4145-8983-8c21a1173758.ipynb)
 
 ## Описание проекта
 
-Требуется анализировать комментарии пользователей на английском языке и выделять токсичные, чтобы отправить на модерацию.
-
-
+Задача — провести оценку результатов A/B-теста. В распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
-
+- pandas
+- scipy.stats
+- numpy
+- matplotlib.pyplot
+- plotly
 
 
 ## Вывод
 
-Была проведена исследовательская работа по обработке текстов и обучению и выбору модели для определения токсичных комментариев по методу TF-IDF. Выбрана линейная регрессия. Намечены шаги по дальнейшей настройке модели.
+В данном проекте по А/В тестированию была проведена предобработка данных,оценка корректности теста, изучены данные о пользователе и проведен исследовательский анализ данных.
