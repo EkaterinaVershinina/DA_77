@@ -1,5 +1,5 @@
 # E-commerce — Выявление профилей потребления
-[ipynb]()
+[ipynb](https://github.com/EkaterinaVershinina/DA_77/blob/main/Project_10/e7a1bdd9-d0bc-4106-b768-ef037ef6ba5c%20(1).ipynb)
 
 ## Описание проекта
 Исследование проводится для создания персонализированных предложений для покупателей (таргетинг).
